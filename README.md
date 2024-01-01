@@ -1,5 +1,3 @@
-<iframe src="https://giphy.com/embed/dxn6fRlTIShoeBr69N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
 Hello, I starfall or starfal8k
 
 I'm a beginner front-end developer and I'm creating a **Cub Library**
